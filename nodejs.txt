@@ -1,0 +1,12 @@
+nodejs
+
+- When we declare a variable or a function, it'll be local and not added to global scope
+
+jshine app.js: show hint to fix the error
+
+Install npm 
+- local dependency: use it only for this particular project
++ npm i <package>
+
+- global dependency: use it in any project
++ npm install -g <packageName>
